@@ -1,1 +1,1 @@
-1: a script that prints hello world
+this is readme file for the project Process and signals
